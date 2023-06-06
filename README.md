@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Susmita! A QA enthusiast with a knack for finding bugs and a love for all things tech. When I'm not diving into testing, you can catch me exploring new trails or reading an autobiography.
+
